@@ -8,6 +8,11 @@
 import SwiftUI
 
 struct AppView: View {
+    
+    init() {
+            UITabBar.appearance().barTintColor = UIColor.white
+        }
+    
     var body: some View {
         TabView {
             HomeFeedView()
