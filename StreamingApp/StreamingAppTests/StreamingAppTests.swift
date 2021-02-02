@@ -1,14 +1,14 @@
 //
-//  VideoStreamingAppTests.swift
-//  VideoStreamingAppTests
+//  StreamingAppTests.swift
+//  StreamingAppTests
 //
-//  Created by Itunu Raimi on 25/01/2021.
+//  Created by Itunu Raimi on 02/02/2021.
 //
 
 import XCTest
-@testable import VideoStreamingApp
+@testable import StreamingApp
 
-class VideoStreamingAppTests: XCTestCase {
+class StreamingAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
